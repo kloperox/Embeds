@@ -5,8 +5,8 @@
  * @invite kHe2KNzygB
  * @version 0.0.1
  * @description Umożliwia wysyłanie emblematów
- * @website 
- * @source 
+ * @website https://github.com/kloperox/Embeds
+ * @source https://raw.githubusercontent.com/kloperox/Embeds/main/embeds.plugin.js
  * @donate https://tipply.pl/u/BlackLifeRP
  */
  
@@ -21,8 +21,8 @@
         ],
         version: '0.0.1',
         description: 'Umożliwia wysyłanie emblematów',
-        github: '',
-        github_raw: ''
+        github: 'https://github.com/kloperox/Embeds',
+        github_raw: 'https://raw.githubusercontent.com/kloperox/Embeds/main/embeds.plugin.js'
     }
 };
 
